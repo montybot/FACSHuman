@@ -6,6 +6,8 @@ This work is based on the Facial Action coding System :
 
 >Ekman, P., Friesen, W. V., & Hager, J. C. (2002). Facial action coding system. A Human Face.
 
+This software allow you to move the corresponding Action Units described in the FACS Manual.
+
 ## Paper
 Please cite the following paper if you use this software/plugin for your research :
 
@@ -34,6 +36,7 @@ http://www.makehumancommunity.org/wiki/Main_Page
 http://www.makehumancommunity.org/forum/
 
 ## FACSHuman Installation
+### Main files (the core)
 Put this files inside the plugin directory of your MH installation (not in the plugin directory of MH in USER/Document/makehuman)
 
 | File                   | Usage                        |
@@ -42,7 +45,24 @@ Put this files inside the plugin directory of your MH installation (not in the p
 | 8_FACSAnim.py          | (to create facial animation) |
 | 7_FACSHuman.py         | (main program)               |
 
+### Target files of the AUs
+Place the targets files directory into : 
+
+For lastest version of MH :
+>/home/YOUR_USER/Documents/makehuman/YOUR_NUMBER/data/FACSHuman/
+
+For earlier versions :
+>/home/michael/Documents/makehuman/data/FACSHuman/
+
 ## Additional ressources
+### Teeth
+In order to avoid teeth distortion, you need to use the modified facs models.
+
+### Skins
+### Models
+### Eyes
+### Eyelashes
+### Tongue
 
 # Information
 https://www.michaelgilbert.fr/facshuman/
