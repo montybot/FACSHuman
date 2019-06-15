@@ -33,10 +33,13 @@ http://www.makehumancommunity.org/forum/
 ## FACSHuman Installation
 Put this files inside the plugin directory of your MH installation (not in the plugin directory of MH in USER/Document/makehuman)
 
-|**9_FACS_scene_editor.py**| (to edit/create scene)|
-|**8_FACSAnim.py**| (to create facial animation)|
-|**7_FACSHuman.py**| (main program)|
+| File                   | Usage                        |
+|:-----------------------| ----------------------------:|
+| 9_FACS_scene_editor.py | (to edit/create scene)       |
+| 8_FACSAnim.py          | (to create facial animation) |
+| 7_FACSHuman.py         | (main program)               |
 
+## Additional ressources
 
 # Information
 https://www.michaelgilbert.fr/facshuman/
