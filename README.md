@@ -1,11 +1,13 @@
-# FACSHuman
+# FACSHuman v0.0.1 Alpha
 ## FACSHuman plugin for MakeHuman project
 Create pictures and videos of facial expressions for your experiments.
-Based on the Facial Action coding System :
 
-Ekman, P., Friesen, W. V., & Hager, J. C. (2002). Facial action coding system. A Human Face.
+This work is based on the Facial Action coding System :
+
+>Ekman, P., Friesen, W. V., & Hager, J. C. (2002). Facial action coding system. A Human Face.
+
 ## Paper
-Please cite the following paper if you use it in a paper:
+Please cite the following paper if you use this software/plugin for your research :
 
 >Gilbert, M., Demarchi, S., & Urdapilleta, I. (2018). FACSHuman a Software to Create Experimental Material by Modeling 3D Facial Expression. Proceedings of the 18th International Conference on Intelligent Virtual Agents  - IVA ’18, 333‑334.
 https://doi.org/10.1145/3267851.3267865 - ISBN: 978-1-4503-6013-5
@@ -29,7 +31,11 @@ http://www.makehumancommunity.org/wiki/Main_Page
 http://www.makehumancommunity.org/forum/
 
 ## FACSHuman Installation
+Put this files inside the plugin directory of your MH installation (not in the plugin directory of MH in USER/Document/makehuman)
 
+|**9_FACS_scene_editor.py**| (to edit/create scene)|
+|**8_FACSAnim.py**| (to create facial animation)|
+|**7_FACSHuman.py**| (main program)|
 
 
 # Information
