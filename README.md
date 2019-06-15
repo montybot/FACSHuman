@@ -16,6 +16,9 @@ https://doi.org/10.1145/3267851.3267865 - ISBN: 978-1-4503-6013-5
 1. https://iva2018.westernsydney.edu.au/
 2. https://dl.acm.org/citation.cfm?id=3267865#
 
+## Link to my profile
+https://www.researchgate.net/profile/Michael_Gilbert10
+
 # Documentation
 ## Get started
 Download and install MakeHuman from here http://www.makehumancommunity.org/content/downloads.html
