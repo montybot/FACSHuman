@@ -21,7 +21,7 @@ https://doi.org/10.1145/3267851.3267865 - ISBN: 978-1-4503-6013-5
 Download and install MakeHuman from here http://www.makehumancommunity.org/content/downloads.html
 and follow the insctructions for your Operating System.
 
-Then start MakeHuman once to create the MH directory in your home/USER/Document/ 
+Then start MakeHuman once to create the MH directory in your home/YOURUSER/Document/ 
 
 ### For MH
 If you have any questions about the installation and the use of this software :
@@ -49,3 +49,12 @@ If you have any questions please contact me  __**not the MH Team**__
 
 dev (at) michaelgilbert.fr
 
+# Demo videos
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qqUxmFsK_Po
+" target="_blank"><img src="http://img.youtube.com/vi/qqUxmFsK_Po/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+
+## FACSvatar
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jQwcDjFpq5g
+" target="_blank"><img src="http://img.youtube.com/vi/jQwcDjFpq5g/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
