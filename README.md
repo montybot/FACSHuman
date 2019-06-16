@@ -6,7 +6,8 @@ This work is based on the Facial Action coding System :
 
 >Ekman, P., Friesen, W. V., & Hager, J. C. (2002). Facial action coding system. A Human Face.
 
-This software allow you to move the corresponding Action Units (AU) described in the FACS Manual.
+This plugin allow you to create facial expressions by moving the corresponding Action Units (AU) described in the FACS Manual.
+Additional plugins are available to create scene (lights placement and lights colors) and animation.
 
 ## Paper
 Please cite the following paper if you use this plugin for your research :
