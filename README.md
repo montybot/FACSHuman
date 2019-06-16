@@ -672,7 +672,7 @@ https://www.youtube.com/channel/UCEAepvD886XqB6wikmXW8Qg
 </tr>
 
 <tr>
-<td class="org-left">pupils constraction</td>
+<td class="org-left">pupils constriction</td>
 <td class="org-left">X</td>
 <td class="org-left">X</td>
 <td class="org-left">&#xa0;</td>
