@@ -7,7 +7,7 @@ This work is based on the Facial Action coding System :
 >Ekman, P., Friesen, W. V., & Hager, J. C. (2002). Facial action coding system. A Human Face.
 
 This plugin allow you to create facial expressions by moving the corresponding Action Units (AU) described in the FACS Manual.
-Additional plugins are available to create scene (lights placement and lights colors) and animation.
+Additional plugins are available to create scene (lights placement and lights colors) and animations.
 
 ## Paper
 Please cite the following paper if you use this plugin for your research :
@@ -42,9 +42,9 @@ Put this files inside the plugin directory of your MH installation (not in the p
 
 | File                   | Usage                        |
 |:-----------------------| ----------------------------:|
-| 9_FACS_scene_editor.py | (to edit/create scene)       |
-| 8_FACSAnim.py          | (to create facial animation) |
 | 7_FACSHuman.py         | (main program)               |
+| 8_FACSAnim.py          | (to create facial animation) |
+| 9_FACS_scene_editor.py | (to edit/create scene)       |
 
 
 ### Target files of the AUs
@@ -132,6 +132,7 @@ FACSHuman is a plugin for Makehuman.
 If you have any questions please contact me  __**not the MH Team**__
 
 # Demo videos
+More tutorials videos will be available soon. 
 ## All AUs demonstration
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=RJlP5M_Tmk8" target="_blank"><img src="http://img.youtube.com/vi/RJlP5M_Tmk8/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
