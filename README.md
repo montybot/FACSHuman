@@ -6,10 +6,10 @@ This work is based on the Facial Action coding System :
 
 >Ekman, P., Friesen, W. V., & Hager, J. C. (2002). Facial action coding system. A Human Face.
 
-This software allow you to move the corresponding Action Units described in the FACS Manual.
+This software allow you to move the corresponding Action Units (AU) described in the FACS Manual.
 
 ## Paper
-Please cite the following paper if you use this software/plugin for your research :
+Please cite the following paper if you use this plugin for your research :
 
 >Gilbert, M., Demarchi, S., & Urdapilleta, I. (2018). FACSHuman a Software to Create Experimental Material by Modeling 3D Facial Expression. Proceedings of the 18th International Conference on Intelligent Virtual Agents  - IVA ’18, 333‑334.
 https://doi.org/10.1145/3267851.3267865 - ISBN: 978-1-4503-6013-5
@@ -45,24 +45,71 @@ Put this files inside the plugin directory of your MH installation (not in the p
 | 8_FACSAnim.py          | (to create facial animation) |
 | 7_FACSHuman.py         | (main program)               |
 
-### Target files of the AUs
-Place the targets files directory into : 
 
+### Target files of the AUs
+Place the targets files directory  into : 
 For lastest version of MH :
 >/home/YOUR_USER/Documents/makehuman/YOUR_NUMBER/data/FACSHuman/
 
 For earlier versions :
 >/home/michael/Documents/makehuman/data/FACSHuman/
 
-## Additional ressources
-### Teeth
-In order to avoid teeth distortion, you need to use the modified facs models.
+This directory contains :
+* 00 Emotions
+* 01 Upper Face AUs
+* 02 Lower Face AUs
+* 03 Lip Parting and Jaw Opening
+* 04 Eye Positions
+* 05 Head Positions
+* 06 Miscellaneous AUs
+* au.json
+* black.jpg
 
-### Skins
-### Models
-### Eyes
+**Whithout these files plugins do not work**
+
+## Additional ressources
+Place directories in :
+
+for lastest version of MH :
+>/home/YOUR_USER/Documents/makehuman/YOUR_NUMBER/data/...
+
+for earlier versions :
+>/home/michael/Documents/makehuman/data/...
+
+### Teeth
+In order to avoid teeth distortion (original model), you need to use the modified facs models.
+
+Place it in **teeth**
+
+This directory contains :
+* FACSTeeth01
+* FACSTeeth01a
+* FACSTeeth01b
+* FACSTeeth02
+* FACSTeeth02a
+* FACSTeeth02b
+* FACSteeth03
+* FACSteeth03_bw
+* FACSteeth04
+
 ### Eyelashes
+Place it in **teeth**
+
+This directory contains :
+* FACSEyeLashes01
+
 ### Tongue
+Place it in **tongue**
+
+This directory contains :
+* FACSTongue
+* FACSTongue_bw
+
+### Custom
+Place it in **custom**
+
+This directory contains :
+* close_lips.target
 
 # Information
 https://www.michaelgilbert.fr/facshuman/
