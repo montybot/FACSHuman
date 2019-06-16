@@ -78,7 +78,7 @@ for earlier versions :
 >/home/michael/Documents/makehuman/data/...
 
 ### Teeth
-In order to avoid teeth distortion (original models) zhen you use mouth opening, you need to use the modified facs models.
+In order to avoid teeth distortion (original models) when you use mouth opening AUs, you need to use the modified facs models.
 
 Place it in **/teeth**
 
@@ -111,7 +111,17 @@ Place it in **/custom**
 
 This directory contains :
 * close_lips.target
+
 This target is useful to close the small gap between lips of the MH model.
+
+## Additional installation
+If you want to use the video production inside FACSHuman you need to install FFmpeg tools :
+
+https://ffmpeg.org/about.html
+
+and put this software into the **path** of your computer.
+
+You will find the procedure on the net depending of your operating system.
 
 # Information
 https://www.michaelgilbert.fr/facshuman/
