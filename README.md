@@ -142,7 +142,7 @@ If you have any questions please contact me  __**not the MH Team**__
 
 https://www.youtube.com/channel/UCEAepvD886XqB6wikmXW8Qg
 
-# Action Units usable in FACSHuman
+# Usable Action Units in FACSHuman
 <table id="org3211805" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 <caption class="t-above"><span class="table-number">Table 1:</span> Usable Action Units in FACS</caption>
 
