@@ -24,7 +24,7 @@ https://www.researchgate.net/profile/Michael_Gilbert10
 # Documentation
 ## Get started
 Download and install MakeHuman from here http://www.makehumancommunity.org/content/downloads.html
-and follow the insctructions for your Operating System.
+and follow the instructions for your Operating System.
 
 Then start MakeHuman once to create the MH directory in your home/YOURUSER/Document/ 
 
@@ -48,6 +48,7 @@ Put this files inside the plugin directory of your MH installation (not in the p
 
 ### Target files of the AUs
 Place the targets files directory  into : 
+
 For lastest version of MH :
 >/home/YOUR_USER/Documents/makehuman/YOUR_NUMBER/data/FACSHuman/
 
@@ -77,9 +78,9 @@ for earlier versions :
 >/home/michael/Documents/makehuman/data/...
 
 ### Teeth
-In order to avoid teeth distortion (original model), you need to use the modified facs models.
+In order to avoid teeth distortion (original models) zhen you use mouth opening, you need to use the modified facs models.
 
-Place it in **teeth**
+Place it in **/teeth**
 
 This directory contains :
 * FACSTeeth01
@@ -93,31 +94,31 @@ This directory contains :
 * FACSteeth04
 
 ### Eyelashes
-Place it in **teeth**
+Place it in **/eyelashes**
 
 This directory contains :
 * FACSEyeLashes01
 
 ### Tongue
-Place it in **tongue**
+Place it in **/tongue**
 
 This directory contains :
 * FACSTongue
-* FACSTongue_bw
+* FACSTongue_bw (black and white model)
 
 ### Custom
-Place it in **custom**
+Place it in **/custom**
 
 This directory contains :
 * close_lips.target
+This target is useful to close the small gap between lips of the MH model.
 
 # Information
 https://www.michaelgilbert.fr/facshuman/
 
 FACSHuman is a plugin for Makehuman.
-If you have any questions please contact me  __**not the MH Team**__
 
-dev (at) michaelgilbert.fr
+If you have any questions please contact me  __**not the MH Team**__
 
 # Demo videos
 ## All AUs demonstration
