@@ -70,6 +70,8 @@ This directory contains :
 **Whithout these files plugins do not work**
 
 ## Additional ressources
+Teeth, eyes, eylashes and tongue are modified versions of materials assets from the http://www.makehumancommunity.org/
+
 Place directories in :
 
 for lastest version of MH :
@@ -93,6 +95,21 @@ This directory contains :
 * FACSteeth03
 * FACSteeth03_bw
 * FACSteeth04
+
+### Eyes
+Place it in **/eyes**
+
+This directory contains :
+* black_map.png
+* /eyes_no_cornea
+* /facs-poly
+* /makehuman_eye_specular.png
+* /makehuman_eye_specular2.png
+* /materials
+* /real_pupil_no-cornea
+* specular_map.png
+* specular_map_invert.png
+* specular_map_white_b.png
 
 ### Eyelashes
 Place it in **/eyelashes**
