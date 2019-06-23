@@ -1,0 +1,23 @@
+# MakeHuman Material definition
+
+name eye_brownMaterial
+
+// Color shading attributes
+diffuseColor  1 1 1
+specularColor  1 1 1
+shininess 0.1961
+opacity 0
+
+// Textures and properties
+diffuseTexture brown_eye.png
+
+// Shader programme
+shader data/shaders/glsl/phong
+
+// Configure built-in shader defines
+shaderConfig diffuse true
+shaderConfig bump false
+shaderConfig normal  false
+shaderConfig displacement  false
+shaderConfig spec  false
+shaderConfig vertexColors false

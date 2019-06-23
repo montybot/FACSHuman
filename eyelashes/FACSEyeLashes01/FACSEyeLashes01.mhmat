@@ -1,0 +1,33 @@
+# Material definition for bodyMaterial
+
+name bodyMaterial
+description FACSEyeLashes01 material
+ambientColor 1.0 1.0 1.0
+diffuseColor 1.0 1.0 1.0
+specularColor 0.0 0.0 0.0
+shininess 0.5
+emissiveColor 0.0 0.0 0.0
+opacity 0.45
+translucency 0.0
+
+shadeless False
+wireframe False
+transparent True
+alphaToCoverage False
+backfaceCull False
+depthless False
+
+castShadows False
+
+receiveShadows True
+
+diffuseTexture FACSEyeLashes01.png
+
+shaderConfig ambientOcclusion True
+shaderConfig normal False
+shaderConfig bump True
+shaderConfig displacement False
+shaderConfig vertexColors True
+shaderConfig spec False
+shaderConfig transparency True
+shaderConfig diffuse True

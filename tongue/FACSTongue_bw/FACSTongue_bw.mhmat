@@ -1,0 +1,35 @@
+# Material definition for FACSTongue
+
+name FACSTongue
+description FACSTongue material
+ambientColor 0.380392156863 0.380392156863 0.380392156863
+diffuseColor 1.0 1.0 1.0
+specularColor 0.0313725490196 0.0313725490196 0.0313725490196
+shininess 0.1961
+emissiveColor 0.0 0.0 0.0
+opacity 1.0
+translucency 0.0
+
+shadeless False
+wireframe False
+transparent False
+alphaToCoverage True
+backfaceCull True
+depthless False
+
+castShadows True
+
+receiveShadows True
+
+diffuseTexture FACSTongue_bw.png
+
+shaderParam litsphereTexture litspheres/lit_matte.png
+
+shaderConfig ambientOcclusion True
+shaderConfig normal True
+shaderConfig bump False
+shaderConfig displacement False
+shaderConfig vertexColors True
+shaderConfig spec False
+shaderConfig transparency True
+shaderConfig diffuse True
