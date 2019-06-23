@@ -48,7 +48,9 @@ Put this files inside the plugin directory of your MH installation (not in the p
 
 
 ### Target files of the AUs
-Place the targets files directory  into : 
+All the FACSHuman target files were created with Blender and the MH tools for Blender.
+
+Place targets files directory  into : 
 
 For lastest version of MH :
 >/home/YOUR_USER/Documents/makehuman/YOUR_NUMBER/data/FACSHuman/
@@ -103,8 +105,8 @@ This directory contains :
 * black_map.png
 * /eyes_no_cornea
 * /facs-poly
-* /makehuman_eye_specular.png
-* /makehuman_eye_specular2.png
+* makehuman_eye_specular.png
+* makehuman_eye_specular2.png
 * /materials
 * /real_pupil_no-cornea
 * specular_map.png
