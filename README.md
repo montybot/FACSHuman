@@ -56,7 +56,7 @@ For lastest version of MH :
 >/home/YOUR_USER/Documents/makehuman/YOUR_NUMBER/data/FACSHuman/
 
 For earlier versions :
->/home/michael/Documents/makehuman/data/FACSHuman/
+>/home/YOUR_USER/Documents/makehuman/data/FACSHuman/
 
 This directory contains :
 * 00 Emotions
