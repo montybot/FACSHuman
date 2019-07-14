@@ -134,7 +134,13 @@ This directory contains :
 
 This target is useful to close the small gap between lips of the MH model.
 
-## Additional installation
+## Additional installations
+
+### FACSvatar
+An Open Source Modular Framework From Face to FACS Based Avatar Animation (Unity3D / Blender)
+More on FACSvatar: https://github.com/NumesSanguis/FACSvatar
+
+### FFmpeg
 If you want to use the video production inside FACSHuman you need to install FFmpeg tools :
 
 https://ffmpeg.org/about.html
