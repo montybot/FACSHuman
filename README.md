@@ -11,11 +11,14 @@ Additional plugins are available to create scene (lights placement and lights co
 
 ## Paper
 Please cite the following paper if you use this plugin for your research :
+>Gilbert, M., Demarchi, S., & Urdapilleta, I. (2021). FACSHuman, a software program for creating experimental material by modeling 3D facial expressions. Behavior Research Methods. https://doi.org/10.3758/s13428-021-01559-9
 
+**Read the paper online** : https://rdcu.be/cic2v
+
+## The conference
 >Gilbert, M., Demarchi, S., & Urdapilleta, I. (2018). FACSHuman a Software to Create Experimental Material by Modeling 3D Facial Expression. Proceedings of the 18th International Conference on Intelligent Virtual Agents  - IVA ’18, 333‑334.
 https://doi.org/10.1145/3267851.3267865 - ISBN: 978-1-4503-6013-5
 
-## The conference
 1. https://iva2018.westernsydney.edu.au/
 2. https://dl.acm.org/citation.cfm?id=3267865#
 
