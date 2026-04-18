@@ -1,4 +1,8 @@
 # FACSHuman v0.0.1 Alpha
+> [!TIP]
+> NEWS UPDATE : Python 3 version of the plugins for the latest version of MakeHuman available here :
+> [https://github.com/montybot/FACSHuman-Py3-Enhanced](https://github.com/montybot/FACSHuman-Py3-Enhanced)
+
 ## FACSHuman plugin for MakeHuman project
 Create pictures and videos of facial expressions for your experiments.
 
